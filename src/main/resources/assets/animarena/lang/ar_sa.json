@@ -1,0 +1,11 @@
+{
+  "entity.animarena.kaito_windrunner": "كايتو ويندرانر",
+  "entity.animarena.draven_ironfist": "درافن أيرونفيست",
+  "entity.animarena.ryua_emberweave": "ريوا إمبرويف",
+  "entity.animarena.selys_frostveil": "سيليس فروستفيل",
+
+  "item.animarena.kaito_windrunner_summon": "استحضار كايتو ويندرانر",
+  "item.animarena.draven_ironfist_summon": "استحضار درافن أيرونفيست",
+  "item.animarena.ryua_emberweave_summon": "استحضار ريوا إمبرويف",
+  "item.animarena.selys_frostveil_summon": "استحضار سيليس فروستفيل"
+}

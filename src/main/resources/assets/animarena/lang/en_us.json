@@ -1,0 +1,11 @@
+{
+  "entity.animarena.kaito_windrunner": "Kaito Windrunner",
+  "entity.animarena.draven_ironfist": "Draven Ironfist",
+  "entity.animarena.ryua_emberweave": "Ryua Emberweave",
+  "entity.animarena.selys_frostveil": "Selys Frostveil",
+
+  "item.animarena.kaito_windrunner_summon": "Kaito Windrunner Summon",
+  "item.animarena.draven_ironfist_summon": "Draven Ironfist Summon",
+  "item.animarena.ryua_emberweave_summon": "Ryua Emberweave Summon",
+  "item.animarena.selys_frostveil_summon": "Selys Frostveil Summon"
+}
